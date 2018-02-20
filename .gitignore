@@ -1,0 +1,4 @@
+*.dat 
+results
+
+#this is a list of files that git can ignore in the repository
